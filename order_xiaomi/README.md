@@ -7,5 +7,6 @@ https://dribbble.com/shots/5712476-Light-themed-UI?utm_source=Clipboard_Shot&utm
 
 ### Order Page
 <img src="https://github.com/LBroy/dribble-clone/blob/master/order_xiaomi/screenshots/OrderPage.png" width="350">
+
 ### Checkout Page
 <img src="https://github.com/LBroy/dribble-clone/blob/master/order_xiaomi/screenshots/CheckoutPage.png" width="350">
